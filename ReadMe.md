@@ -1,0 +1,1 @@
+This is a static Periodic Table used as a starting point for the interactive one.
